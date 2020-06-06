@@ -1,5 +1,5 @@
 # Tableau-Citi-bike-analytics
-![1-Logo](Images/CitiBike_Logo_p.svg)
+![1-Logo](Images/maxresdefault.jpg)
 
 
 
